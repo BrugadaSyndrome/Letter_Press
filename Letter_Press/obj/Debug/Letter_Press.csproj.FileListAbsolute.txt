@@ -1,0 +1,6 @@
+Z:\Programming\C#\Letter_Press\Letter_Press\bin\Debug\Letter_Press.exe.config
+Z:\Programming\C#\Letter_Press\Letter_Press\bin\Debug\Letter_Press.exe
+Z:\Programming\C#\Letter_Press\Letter_Press\bin\Debug\Letter_Press.pdb
+Z:\Programming\C#\Letter_Press\Letter_Press\obj\Debug\Letter_Press.csprojResolveAssemblyReference.cache
+Z:\Programming\C#\Letter_Press\Letter_Press\obj\Debug\Letter_Press.exe
+Z:\Programming\C#\Letter_Press\Letter_Press\obj\Debug\Letter_Press.pdb
